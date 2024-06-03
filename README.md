@@ -24,7 +24,6 @@
 - ⚡ Fun fact **I find Space very Fascinating**
 <br><br>
 [![harshithbabu-git's GitHub | Stats](https://stats.quine.sh/harshithbabu-git/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harshithbabu-git)
-<br>
 [![harshithbabu-git's GitHub | Languages Over Time](https://stats.quine.sh/harshithbabu-git/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harshithbabu-git)
 <br><br>
 <h3 align="left">Connect with me:</h3>
