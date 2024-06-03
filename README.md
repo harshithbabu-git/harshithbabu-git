@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshith Babu</h1>
 <h3 align="center">A Data Science enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithbabu-git&label=Profile%20views&color=0e75b6&style=flat" alt="harshithbabu-git" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshithbabu-git" alt="harshithbabu-git" /></a> </p>
-
 - 🔭 I’m currently working on **Automated AI assistant**
 
 - 🌱 I’m currently learning **BE(Hons) Computer Science and Technology from Hindusthan College of Engineering and Technology, Coimbatore; Diploma in Data Science from Indian Institute of Technology, Madras**
