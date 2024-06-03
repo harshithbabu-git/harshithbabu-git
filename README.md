@@ -29,6 +29,7 @@
 </p>
 
 [![harshithbabu-git's GitHub | Stats](https://stats.quine.sh/harshithbabu-git/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harshithbabu-git)
+
 [![harshithbabu-git's GitHub | Languages Over Time](https://stats.quine.sh/harshithbabu-git/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harshithbabu-git)
 
 <h3 align="left">Languages and Tools:</h3>
