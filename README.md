@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Soon!](Soon!)
 
-- 💬 Ask me about **Python, R and SQL**
+- 💬 Ask me about **Python, Machine Learning, R and SQL**
 
 - 📫 How to reach me **harshithbabu2001@gmail.com**
 
