@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineer+%E2%86%92+Manager+%E2%86%92+Quant;Turning+data+into+decisions+in+financial+markets;Statistical+modelling+%7C+Machine+Learning+%7C+Risk;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA+%7C+Targeting+Frankfurt" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineer+%E2%86%92+Business+School+%E2%86%92+Quant;Turning+data+into+decisions+in+financial+markets;Statistical+modelling+%7C+Machine+Learning+%7C+Risk;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA+%7C+Targeting+Frankfurt" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/contactharshithbabu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:harshithbabu2001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Germany-000000?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=harshithbabu-git&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -190,22 +190,22 @@ timeline
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshithbabu-git&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithbabu-git&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=harshithbabu-git&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshithbabu-git&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshithbabu-git/harshithbabu-git/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/harshithbabu-git/harshithbabu-git/output/github-snake.svg" />
   </picture>
 </p>
 
