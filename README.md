@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:1F6FEB&height=200&section=header&text=Harshith%20Babu&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Quantitative%20Finance%20%C2%B7%20Data%20%26%20AI%20%C2%B7%20Financial%20Analytics&descAlignY=60&descSize=18" />
+  <img src="./assets/header.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -222,5 +222,5 @@ timeline
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:0A3D62,100:0D1117&height=120&section=footer" />
+  <img src="./assets/footer.svg" width="100%" />
 </p>
